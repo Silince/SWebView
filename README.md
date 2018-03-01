@@ -10,10 +10,12 @@
  7. webview密码明文存储漏洞
  8. webview.loadData()乱码
  9. webview.onPageFinish导致多次跳转
+ 
 #webview性能优化
- 7. webview资源预加载
- 8. 独立webview进程
- 9. 后台无法释放 JS 导致耗电
+ 1. webview资源预加载
+ 2. 独立webview进程
+ 3. 后台无法释放 JS 导致耗电
+ 
 比较好的博客推荐：https://www.jianshu.com/p/3fcf8ba18d7f
 https://my.oschina.net/zhibuji/blog/100580
 
